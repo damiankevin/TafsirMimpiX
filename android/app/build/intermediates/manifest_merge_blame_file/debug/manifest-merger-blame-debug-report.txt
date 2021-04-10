@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo"
+4    android:versionCode="2097155"
+5    android:versionName="1.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="29" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17
+18    <application
+18-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:6:5-39:19
+19        android:name="com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo.MainApplication"
+19-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:7:7-38
+20        android:allowBackup="false"
+20-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:11:7-34
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@drawable/ic_launcher"
+23-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:9:7-43
+24        android:label="@string/app_name"
+24-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:8:7-39
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme"
+26-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:12:7-38
+27        android:usesCleartextTraffic="true" >
+27-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:10:7-42
+28        <activity
+28-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:13:7-31:18
+29            android:name="com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo.MainActivity"
+29-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:14:9-37
+30            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+30-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:16:9-86
+31            android:label="@string/app_name"
+31-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:15:9-41
+32            android:launchMode="singleTask"
+32-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:17:9-40
+33            android:windowSoftInputMode="adjustResize" >
+33-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:18:9-51
+34            <intent-filter>
+34-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:19:9-22:25
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:20:13-65
+35-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:20:21-62
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:21:13-73
+37-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:21:23-70
+38            </intent-filter>
+39            <intent-filter>
+39-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:23:9-30:24
+40                <action android:name="android.intent.action.VIEW" />
+40-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:24:10-62
+40-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:24:18-59
+41
+42                <category android:name="android.intent.category.DEFAULT" />
+42-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:25:10-69
+42-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:25:20-66
+43                <category android:name="android.intent.category.BROWSABLE" />
+43-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:26:10-71
+43-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:26:20-68
+44
+45                <data
+45-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:27:10-29:36
+46                    android:host="app"
+46-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:28:12-30
+47                    android:scheme="demo" />
+47-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:29:12-33
+48            </intent-filter>
+49        </activity>
+50        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+50-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:32:7-84
+50-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:32:17-81
+51
+52        <meta-data
+52-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:33:7-35:35
+53            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+53-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:34:13-69
+54            android:value="true" />
+54-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:35:13-33
+55        <meta-data
+55-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:36:7-38:69
+56            android:name="com.google.android.gms.ads.APPLICATION_ID"
+56-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:37:13-69
+57            android:value="ca-app-pub-6360526248619931~6090441068" />
+57-->/Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:38:13-67
+58    </application>
+59
+60</manifest>

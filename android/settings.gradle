@@ -1,0 +1,5 @@
+rootProject.name = 'TafsirMimpi'
+include ':@micabe_react-native-share-instagram'
+project(':@micabe_react-native-share-instagram').projectDir = new File(rootProject.projectDir, '../node_modules/@micabe/react-native-share-instagram/android')
+//apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903320625347",
+    "project_id": "tafsir-mimpi-d85de",
+    "storage_bucket": "tafsir-mimpi-d85de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903320625347:android:89c79c9c7ac74cca2c4276",
+        "android_client_info": {
+          "package_name": "com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903320625347-aj3fj0eltoi8qp3npss9g52ssp3jdgk8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo",
+            "certificate_hash": "f39a575c00196f13aa287199a2c49dafbad5a68b"
+          }
+        },
+        {
+          "client_id": "903320625347-phjtk801ff2auinjac9spkhj4lo38m54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "903320625347-rnn3f3udcv1nqsstjgds689adpfaap0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVvi06wJFgtpuE68qvrsmzq4orAb_0Cxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903320625347-rnn3f3udcv1nqsstjgds689adpfaap0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

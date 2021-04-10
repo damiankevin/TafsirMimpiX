@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/a67d5104530dccfd0d6e5d3b4e11ba75/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/75b68203af03aae349a5fba7b7cd74df/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d874355ff59586bbb3bb622c8819d08a/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/1729d8c2a337d61b6c91d573035421cc/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/62abda8799d0bc292ab2fd1002af0edb/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/25d1dc845e700241926dca3e903a3c76/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/17e3065ddb46871d26f7f41384b3892a/jetified-android-jsc-r174650/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/12024bae6a9a86d1ad6527c9880947a7/jetified-flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/24621e372fdd60c030beb992e05c17f7/jetified-stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f699a8ad5340417004ae14077e99f670/jetified-fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d624622dbd66a71f478ff20e4152ecdd/jetified-animated-gif-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/82b86914b63651c5942ef586bc1a074a/jetified-animated-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/c5aee26ef1df8e3b0ae90e0b1f1ac6d6/jetified-imagepipeline-okhttp-0.8.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/851af371ba2e884852e80c0277404800/jetified-animated-drawable-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e456396447a579133284b505b53bbb02/jetified-drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/6c7acafc3bc97ecb321ce19fff1bcead/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fe481c24b3b6a121419ecd2e19de590b/jetified-memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/475dd6c573fd156617e102d3155bbe6a/jetified-memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/c5ddda7d457b6adb25f88b12f95b64af/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/2ec26b6d9d0e4d797f67708b829c4aa0/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fe01805a02bac5d7f1b83b3d91eb6c71/jetified-imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ad2b1490f029eae44c273dc6d68e1049/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ce12e215419eaa07e11dde79bf2f4644/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/51858cf4e2152956615659d5553c4714/jetified-soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/466fd622becac014dfd8bc9825985a88/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/37a6948936cd4e2a6c0bb3d8547ae008/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/06ae5b4e42c3e4db575d40568b6dae7f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7ef781aaa2b95fcea467edd7168db798/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/9bc3171b2a6f17f85eb8ae0fbcb6c092/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/4e42ef0d153485a521ff06450dce09e6/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d57fb22ed259e0615e736bdee18f37bf/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/2a148cdc03305594cb349d6c165756c0/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/916bb813fb0ba220d0aed8f91e3c392b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/3a3b3e9a8943a9407a406fee83f349ca/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/68ef66f9e4819c7eb762ca2f716e40c5/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f0c8c78838a945df413e845e0871c8b2/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ed7558c82aaa83b21ac26230dab553b5/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e1d14193755141987dbe44e0a3f09db7/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/9bac9225089fad849628542af9508a48/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/bbb3df89d2d6aefc4ae512fac55b36f4/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dab1993fe7e5e405d5da350f9a3e0e5d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f58de52328c73caca42ee5c074f639ca/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d93673a1429cb3c72bf347a03fd2571b/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/1ab233995b67af66d77185538135e9d0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/8c5b96990f61559a7a50e0e76b947cab/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f0b181035e2e6d0652726d82b4c3e29f/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/922cd7bd050a22121dbe26abb40caf9c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/8784ef084998c4896792b31e682f96de/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ca24d6e1e7b746882f9b4a88ad3ac85a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e57e4f0ae9df22ca33d7f7fda70e34b4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/52e270cb6f9d1daca5afbf56133d5229/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/47e294d184025cd0baee5094432cbd47/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fbc1b7e40e668e5d040d4712f3ad0558/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:2:3-91
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:2:3-91
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:6:5-39:19
+MERGED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:6:5-39:19
+MERGED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:6:5-39:19
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:13:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/17e3065ddb46871d26f7f41384b3892a/jetified-android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/17e3065ddb46871d26f7f41384b3892a/jetified-android-jsc-r174650/AndroidManifest.xml:2:3-17
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/466fd622becac014dfd8bc9825985a88/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/466fd622becac014dfd8bc9825985a88/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f58de52328c73caca42ee5c074f639ca/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f58de52328c73caca42ee5c074f639ca/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:7:75-114
+	tools:targetApi
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:9:7-43
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:9:7-43
+	android:allowBackup
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:10:7-42
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.emz.bukuimpi.tafsirmimpi.kodealam.artimimpi.ramalanangka.sdysgphk.joyoboyo.MainActivity
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:13:7-31:18
+	android:label
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:21:23-70
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:app+data:scheme:demo
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:23:9-30:24
+action#android.intent.action.VIEW
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:24:10-62
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:24:18-59
+category#android.intent.category.DEFAULT
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:25:10-69
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:25:20-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:26:10-71
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:26:20-68
+data
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:27:10-29:36
+	android:host
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:28:12-30
+	android:scheme
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:29:12-33
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:32:7-84
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:32:17-81
+meta-data#com.google.android.gms.ads.AD_MANAGER_APP
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:33:7-35:35
+	android:value
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:35:13-33
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:34:13-69
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:36:7-38:69
+	android:value
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:38:13-67
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml:37:13-69
+uses-sdk
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/a67d5104530dccfd0d6e5d3b4e11ba75/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/a67d5104530dccfd0d6e5d3b4e11ba75/jetified-flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/75b68203af03aae349a5fba7b7cd74df/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/75b68203af03aae349a5fba7b7cd74df/jetified-flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d874355ff59586bbb3bb622c8819d08a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d874355ff59586bbb3bb622c8819d08a/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/1729d8c2a337d61b6c91d573035421cc/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/1729d8c2a337d61b6c91d573035421cc/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/62abda8799d0bc292ab2fd1002af0edb/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/62abda8799d0bc292ab2fd1002af0edb/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/25d1dc845e700241926dca3e903a3c76/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/25d1dc845e700241926dca3e903a3c76/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/12024bae6a9a86d1ad6527c9880947a7/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/12024bae6a9a86d1ad6527c9880947a7/jetified-flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/24621e372fdd60c030beb992e05c17f7/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/24621e372fdd60c030beb992e05c17f7/jetified-stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f699a8ad5340417004ae14077e99f670/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f699a8ad5340417004ae14077e99f670/jetified-fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d624622dbd66a71f478ff20e4152ecdd/jetified-animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d624622dbd66a71f478ff20e4152ecdd/jetified-animated-gif-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/82b86914b63651c5942ef586bc1a074a/jetified-animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/82b86914b63651c5942ef586bc1a074a/jetified-animated-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/c5aee26ef1df8e3b0ae90e0b1f1ac6d6/jetified-imagepipeline-okhttp-0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp:0.8.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/c5aee26ef1df8e3b0ae90e0b1f1ac6d6/jetified-imagepipeline-okhttp-0.8.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/851af371ba2e884852e80c0277404800/jetified-animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/851af371ba2e884852e80c0277404800/jetified-animated-drawable-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e456396447a579133284b505b53bbb02/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e456396447a579133284b505b53bbb02/jetified-drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/6c7acafc3bc97ecb321ce19fff1bcead/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/6c7acafc3bc97ecb321ce19fff1bcead/jetified-nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fe481c24b3b6a121419ecd2e19de590b/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fe481c24b3b6a121419ecd2e19de590b/jetified-memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/475dd6c573fd156617e102d3155bbe6a/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/475dd6c573fd156617e102d3155bbe6a/jetified-memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/c5ddda7d457b6adb25f88b12f95b64af/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/c5ddda7d457b6adb25f88b12f95b64af/jetified-imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/2ec26b6d9d0e4d797f67708b829c4aa0/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/2ec26b6d9d0e4d797f67708b829c4aa0/jetified-memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fe01805a02bac5d7f1b83b3d91eb6c71/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fe01805a02bac5d7f1b83b3d91eb6c71/jetified-imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ad2b1490f029eae44c273dc6d68e1049/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ad2b1490f029eae44c273dc6d68e1049/jetified-nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ce12e215419eaa07e11dde79bf2f4644/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ce12e215419eaa07e11dde79bf2f4644/jetified-imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/51858cf4e2152956615659d5553c4714/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/51858cf4e2152956615659d5553c4714/jetified-soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/466fd622becac014dfd8bc9825985a88/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/466fd622becac014dfd8bc9825985a88/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/37a6948936cd4e2a6c0bb3d8547ae008/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/37a6948936cd4e2a6c0bb3d8547ae008/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/06ae5b4e42c3e4db575d40568b6dae7f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/06ae5b4e42c3e4db575d40568b6dae7f/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7ef781aaa2b95fcea467edd7168db798/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7ef781aaa2b95fcea467edd7168db798/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/9bc3171b2a6f17f85eb8ae0fbcb6c092/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/9bc3171b2a6f17f85eb8ae0fbcb6c092/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/4e42ef0d153485a521ff06450dce09e6/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/4e42ef0d153485a521ff06450dce09e6/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d57fb22ed259e0615e736bdee18f37bf/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d57fb22ed259e0615e736bdee18f37bf/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/2a148cdc03305594cb349d6c165756c0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/2a148cdc03305594cb349d6c165756c0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/916bb813fb0ba220d0aed8f91e3c392b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/916bb813fb0ba220d0aed8f91e3c392b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/3a3b3e9a8943a9407a406fee83f349ca/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/3a3b3e9a8943a9407a406fee83f349ca/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/68ef66f9e4819c7eb762ca2f716e40c5/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/68ef66f9e4819c7eb762ca2f716e40c5/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f0c8c78838a945df413e845e0871c8b2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f0c8c78838a945df413e845e0871c8b2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ed7558c82aaa83b21ac26230dab553b5/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ed7558c82aaa83b21ac26230dab553b5/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e1d14193755141987dbe44e0a3f09db7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e1d14193755141987dbe44e0a3f09db7/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/9bac9225089fad849628542af9508a48/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/9bac9225089fad849628542af9508a48/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/bbb3df89d2d6aefc4ae512fac55b36f4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/bbb3df89d2d6aefc4ae512fac55b36f4/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/7915d4227538ddbed4193b5de5100c7f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dab1993fe7e5e405d5da350f9a3e0e5d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dab1993fe7e5e405d5da350f9a3e0e5d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f58de52328c73caca42ee5c074f639ca/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f58de52328c73caca42ee5c074f639ca/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d93673a1429cb3c72bf347a03fd2571b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/d93673a1429cb3c72bf347a03fd2571b/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/1ab233995b67af66d77185538135e9d0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/1ab233995b67af66d77185538135e9d0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/8c5b96990f61559a7a50e0e76b947cab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/8c5b96990f61559a7a50e0e76b947cab/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f0b181035e2e6d0652726d82b4c3e29f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/f0b181035e2e6d0652726d82b4c3e29f/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/922cd7bd050a22121dbe26abb40caf9c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/922cd7bd050a22121dbe26abb40caf9c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/8784ef084998c4896792b31e682f96de/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/8784ef084998c4896792b31e682f96de/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ca24d6e1e7b746882f9b4a88ad3ac85a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ca24d6e1e7b746882f9b4a88ad3ac85a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e57e4f0ae9df22ca33d7f7fda70e34b4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/e57e4f0ae9df22ca33d7f7fda70e34b4/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/52e270cb6f9d1daca5afbf56133d5229/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/52e270cb6f9d1daca5afbf56133d5229/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/47e294d184025cd0baee5094432cbd47/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/47e294d184025cd0baee5094432cbd47/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fbc1b7e40e668e5d040d4712f3ad0558/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/fbc1b7e40e668e5d040d4712f3ad0558/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.20.1] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/ee7e8e0a0656d2d736693cf95d33a86b/jetified-react-native-0.20.1/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/kevinfilberto/.gradle/caches/transforms-2/files-2.1/dc2efe5aefc9bcb1a5f9412c3d3e3549/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/kevinfilberto/Desktop/Project/TafsirMimpi/android/app/src/debug/AndroidManifest.xml:2:1-8:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
